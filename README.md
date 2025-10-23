@@ -26,7 +26,7 @@
 * My experience with Machine Learning and Data Science
 * Ideas for useful, creative, or fun projects!
 
-##⚡ Fun fact
+## ⚡ Fun fact
 * I'm a tutor for topics in Calculus and Beginner Frontend Technologies!
 
 
