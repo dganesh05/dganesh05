@@ -3,7 +3,25 @@
 # 👋 **Hello, I'm Divya Ganesh**
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>* Tydier, an application that uses Clustering, LLMs, and AI Agents to organize browser bookmarks to a clean, hierarchical structure. <br>* CodePath's AI Open Source Capstone, where I learn how to use AI to make clean and understandable smartly commits to Apache Superset<br>👯 I’m looking to collaborate on<br>* Open-source Generative AI applications and proof-of-concepts<br>* Software engineering projects, especially bots and interactive web apps<br>🤝 I’m looking for help with<br>* Building and improving tydier! Currently, I am experimenting with and improving on its clustering phase. Would also love support for eventually transforming it into a Chrome Extension. <br>🌱 I’m currently learning<br>* Generative AI frameworks (e.g., Hugging Face, LangChain)<br>* Full-stack software engineering workflows (CI/CD, containerization, cloud deployments)<br>* Frontend Technologies like React<br>* Data Mining Pipelines, and techniques to improve models<br>💬 Ask me about<br>* AI Research, I'm interested in interdisciplinary research and still finding my niche<br>* My experience with Machine Learning and Data Science<br>* Ideas for useful, creative, or fun projects!<br>⚡ Fun fact<br>I'm a tutor for topics in Calculus and Beginner Frontend Technologies!
+🔭 I’m currently working on:
+* Tydier, an application that uses Clustering, LLMs, and AI Agents to organize browser bookmarks into a clean, hierarchical structure.
+* CodePath's AI Open Source Capstone, where I learn how to use AI to make clean and understandable smart commits to Apache Superset
+👯 I’m looking to collaborate on
+* Open-source Generative AI applications and proof-of-concepts
+* Software engineering projects, especially bots and interactive web apps
+🤝 I’m looking for help with
+* Building and improving tydier! Currently, I am experimenting with and improving on its clustering phase. Would also love support for eventually transforming it into a Chrome Extension.
+🌱 I’m currently learning
+* Generative AI frameworks (e.g., Hugging Face, LangChain)
+* Full-stack software engineering workflows (CI/CD, containerization, cloud deployments)
+* * Frontend Technologies like React
+* Data Mining Pipelines, and techniques to improve models
+💬 Ask me about
+* AI Research, I'm interested in interdisciplinary research and am still finding my niche
+* My experience with Machine Learning and Data Science
+* Ideas for useful, creative, or fun projectsa!
+⚡ Fun fact
+* I'm a tutor for topics in Calculus and Beginner Frontend Technologies!
 
 
 ## 🌐 Socials:
