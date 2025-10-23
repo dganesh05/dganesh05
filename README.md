@@ -8,7 +8,7 @@
 * Tydier, an application that uses Clustering, LLMs, and AI Agents to organize browser bookmarks into a clean, hierarchical structure.
 * CodePath's AI Open Source Capstone, where I learn how to use AI to make clean and understandable smart commits to Apache Superset
 
-##👯 I’m looking to collaborate on
+## 👯 I’m looking to collaborate on
 * Open-source Generative AI applications and proof-of-concepts
 * Software engineering projects, especially bots and interactive web apps
 
